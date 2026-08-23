@@ -6,7 +6,7 @@ const loadingScreen = document.querySelector(".loadingScreen");
 const searchInput = document.querySelector(".searchInput");
 const searchBtn = document.querySelector(".searchBtn");
 const locationBtn = document.querySelector(".locationBtn");
-const apiKey = API_KEY;
+const apiKey = "c59b0fea8dcff4b0e039d9d91591757f";
 
 const welcomeScreen = document.querySelector(".welcomeScreen");
 const weatherApp = document.querySelector(".weatherApp");
